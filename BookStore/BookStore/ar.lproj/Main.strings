@@ -1,0 +1,33 @@
+
+/* Class = "UILabel"; text = "مؤلف"; ObjectID = "6cg-dx-r82"; */
+"6cg-dx-r82.text" = "مؤلف";
+
+/* Class = "UILabel"; text = "سعر"; ObjectID = "7aP-gb-N6L"; */
+"7aP-gb-N6L.text" = "سعر";
+
+/* Class = "UIButton"; configuration.title = "ابحث"; ObjectID = "Z9M-HZ-BHE"; */
+"Z9M-HZ-BHE.configuration.title" = "ابحث";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Z9M-HZ-BHE"; */
+"Z9M-HZ-BHE.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "مؤلف الكتاب :"; ObjectID = "aCK-hq-7Xi"; */
+"aCK-hq-7Xi.text" = "مؤلف الكتاب :";
+
+/* Class = "UILabel"; text = "سعر الكتاب :"; ObjectID = "cKo-b5-Ald"; */
+"cKo-b5-Ald.text" = "سعر الكتاب :";
+
+/* Class = "UILabel"; text = "عنوان الكتاب :"; ObjectID = "gal-Pa-D6z"; */
+"gal-Pa-D6z.text" = "عنوان الكتاب :";
+
+/* Class = "UILabel"; text = "تفاصيل الكتاب"; ObjectID = "hgu-xf-Cqc"; */
+"hgu-xf-Cqc.text" = "تفاصيل الكتاب";
+
+/* Class = "UISegmentedControl"; kNn-bt-LbK.segmentTitles[0] = "First"; ObjectID = "kNn-bt-LbK"; */
+"kNn-bt-LbK.segmentTitles[0]" = "First";
+
+/* Class = "UISegmentedControl"; kNn-bt-LbK.segmentTitles[1] = "Second"; ObjectID = "kNn-bt-LbK"; */
+"kNn-bt-LbK.segmentTitles[1]" = "Second";
+
+/* Class = "UILabel"; text = "عنوان "; ObjectID = "mAf-zl-AAZ"; */
+"mAf-zl-AAZ.text" = "عنوان ";
