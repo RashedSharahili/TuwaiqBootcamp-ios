@@ -27,4 +27,8 @@
 <br>
 <h3>FlikrMaps2</h3>
 <b>Flikr Maps</b>
-<img src="https://github.com/rwishd17/TuwaiqBootcamp-ios/blob/main/attachments/prayerApp.gif" width="200">
+<img src="https://github.com/rwishd17/TuwaiqBootcamp-ios/blob/main/attachments/flickrMaps.gif" width="200">
+<br>
+<h3>QuizApp</h3>
+<b>Quiz App</b>
+<img src="https://github.com/rwishd17/TuwaiqBootcamp-ios/blob/main/attachments/quizApp.gif" width="200">
